@@ -3,8 +3,8 @@
 ; $Id: larabee.scm 15 2008-01-09 06:09:13Z catseye $
 ;
 
-;
-; Copyright (c)2006 Cat's Eye Technologies.  All rights reserved.
+; Copyright (c)2006-2012 Chris Pressey, Cat's Eye Technologies.
+; All rights reserved.
 ;
 ; Redistribution and use in source and binary forms, with or without
 ; modification, are permitted provided that the following conditions
@@ -18,7 +18,7 @@
 ;    distribution.
 ; 3. Neither the names of the copyright holders nor the names of their
 ;    contributors may be used to endorse or promote products derived
-;    from this software without specific prior written permission. 
+;    from this software without specific prior written permission.
 ;
 ; THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 ; ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES INCLUDING, BUT NOT
